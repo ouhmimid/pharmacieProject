@@ -1,0 +1,145 @@
+.header {
+    background-image: url(../../img/medicaments2.jpg);
+}
+
+.container {
+    padding-top: 0 !important;
+}
+
+.intro-text-command {
+    padding-top: 173px;
+    padding-bottom: 200px;
+    font-size: 49px;
+}
+
+ul {
+    color: tomato;
+    padding-left: 26px;
+}
+
+.row {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+.form-style {
+    border: 3px solid #009fe3;
+    border-radius: 25px;
+    padding-top: 100px;
+    padding-bottom: 60px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.image {
+    border: 2px solid #009fe3;
+    border-radius: 100%;
+    position: relative;
+    top: 81px;
+    background-color: white;
+}
+
+footer {
+    background-color: #222;
+}
+
+.fa-linkedin {
+    color: teal;
+}
+
+.fa-facebook {
+    color: #3b5998;
+}
+
+.fa-envelope-o {
+    color: #b23121;
+}
+
+.derectedBy {
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #ffffff;
+    line-height: 40px;
+    text-transform: uppercase;
+    text-transform: none;
+}
+
+.cartPH {
+    width: 100%;
+    height: 100%;
+    border: 1px solid #009fe3;
+    border-radius: 20px;
+}
+
+.infoPH {
+    border-top: 1px solid #009fe3;
+    padding: 14px;
+}
+
+.imagePH {
+    width: 100%;
+    height: 146px;
+    text-align: center;
+}
+section{
+    margin-top: 50px;
+}
+.locate{
+    background-color: #009fe3 !important;
+    border-color: #009fe3 !important;
+    position: absolute;
+    right: 28px;
+    top: 15px;
+    border-radius: 100%; 
+    width: 22px;
+    height: 22px;
+    color: #ffffff;
+}
+.locate:hover{
+    color: #ffffff;
+}
+.gard-style{
+    border: 1px solid #009fe3;
+    border-radius: 20px;
+    text-align: center;
+    width: 47%;
+    position: absolute;
+    bottom: 0;
+    left: 28%;
+    margin-bottom: 22px;
+}
+.gard-text{
+    margin-right: 31px;
+    font-size: 17px;
+    color: #2e7ba8;
+}
+.fa-check{
+    color: #79af67 !important;
+}
+.fa-times{
+    color: tomato;
+}
+.search{
+    padding-top: 33px;
+    padding-bottom: 33px;
+    background-color: #a7e7f8;
+    margin-top: 0px;
+    height: 181px;
+    color:black;
+}
+.search-text{
+    font-size: 25px;
+}
+.search-input{
+    width: 200px;
+    border-radius: 8px;
+    display: -webkit-inline-box;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #009fe3 !important;
+    border-color: #009fe3 !important;
+}
+.col-md-3 {
+    height: 314px !important;
+    margin-bottom: 21px;
+}

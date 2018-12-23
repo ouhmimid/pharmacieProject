@@ -1,0 +1,122 @@
+.header {
+    background-image: url(../../../img/medicaments2.jpg);
+}
+
+.container {
+    padding-top: 0 !important;
+}
+
+.intro-text-command {
+    padding-top: 173px;
+    padding-bottom: 200px;
+    font-size: 49px;
+}
+
+footer {
+    background-color: #222;
+}
+
+.fa-linkedin {
+    color: teal;
+}
+
+.fa-facebook {
+    color: #3b5998;
+}
+
+.fa-envelope-o {
+    color: #b23121;
+}
+
+.derectedBy {
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #ffffff;
+    line-height: 40px;
+    text-transform: uppercase;
+    text-transform: none;
+}
+
+.identity-style {
+    border: 1px solid;
+    padding: 20px;
+    box-shadow: 0 5px 19px 0 rgba(0, 0, 0, 0.4), 0 0 0 19px rgba(0, 0, 0, 0);
+    border-radius: 8px;
+    background-color: white;
+    height: 439px;
+}
+
+.phName {
+    font-size: 26px;
+    font-family: Courier New;
+    color: #0080b8;
+    font-weight: bold;
+}
+
+.distance {
+    font-size: 12px;
+    padding-left: 5px;
+}
+
+.Kilometers {
+    font-size: 21px;
+    color: green;
+}
+
+.info {
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+.row {
+    margin-top: 20px;
+}
+
+.btn {
+    width: 100%;
+    margin-top: 5px;
+}
+
+.Maps-cart {
+    height: 100%;
+}
+
+.btn-geo {
+    color: #fff;
+    background-color: #0080b8;
+    border-color: #0080b8;
+}
+.btn-geo:hover{
+    color: #ffffff;
+}
+.informations{
+    margin-bottom: 15px;
+    border-left: 4px solid #0080b8;
+    background-color: #0081b82a;
+}
+.informations-container{
+    margin: 26px 2px 26px 2px;
+    font-size: 23px;
+}
+.after-location{
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-decoration: none;
+    color: #222;
+    font-size: 21px;
+}
+.after-location:hover{
+    text-decoration: none;
+    color: darkcyan;
+}
+
+#map {
+    height: 440px;
+    width: 100%;
+  }
+
+  #help-Button{
+    position: absolute;
+    bottom: 11px;
+    width: 100%;
+  }

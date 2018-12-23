@@ -1,0 +1,24 @@
+footer {
+    background-color: #222;
+    margin-top: 35px;
+}
+
+.fa-linkedin {
+    color: teal;
+}
+
+.fa-facebook {
+    color: #3b5998;
+}
+
+.fa-envelope-o {
+    color: #b23121;
+}
+
+.derectedBy {
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #ffffff;
+    line-height: 40px;
+    text-transform: uppercase;
+    text-transform: none;
+}
